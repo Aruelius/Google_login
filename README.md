@@ -1,5 +1,5 @@
 # Google_login
-YouTube，Google，Gmail ...  Google Family Bucket.
+Here's a Python script that can login to YouTube, Google, Gmail ...  Google Family Bucket.
 
 ## How to use
 1. Open ``google_login.py``
