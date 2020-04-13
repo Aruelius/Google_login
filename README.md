@@ -26,5 +26,5 @@ window.botguard.bg(JSON.parse('[' + document.querySelector('[data-initial-setup-
 ## attention
 **identifier** is tied to your account.  
 So if you change your ``username``, please make sure also change the **identifier**.  
-The **identifier** seem to not expire. I don't test it.  
+The **identifier** seem to not expire. I didn't test it.  
 At your first login, maybe need verification, and we only support SMS verification, it won't be after.
